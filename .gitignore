@@ -3,3 +3,4 @@ animals.v3i/
 images/
 labeled_data/
 runs/
+yolov8n.pt
