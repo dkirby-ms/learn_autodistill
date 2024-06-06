@@ -1,1 +1,5 @@
-animals.v3i/data.yaml
+animals.v3i/
+.venv/
+images/
+labeled_data/
+runs/
