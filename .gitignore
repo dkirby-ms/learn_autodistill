@@ -4,3 +4,4 @@ images/
 labeled_data/
 runs/
 yolov8n.pt
+__pycache__/
